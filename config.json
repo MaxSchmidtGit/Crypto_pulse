@@ -1,0 +1,7 @@
+{
+  "exchange": "binance",
+  "trade_pair": "BTC/USDT",
+  "strategy": "extended",
+  "order_volume": 0.001,
+  "sleep_time": 10
+}
